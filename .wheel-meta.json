@@ -1,0 +1,22 @@
+{
+  "wheel_id": 629,
+  "structure": "umbrella",
+  "slug": "retainingwallpros-152",
+  "project": "retaining-wall-quotes-brisbane-planning-guide-7fa85a335ef1c8739",
+  "parent_t1_ref": "retainingwallpros-007",
+  "node_role": "buffer",
+  "money_target": "retainingwallpros.com.au",
+  "primary_kw": "retaining wall quotes brisbane planning guide",
+  "intended_url": "https://sitesau.github.io/retainingwallpros-152/",
+  "tier": "T2",
+  "writeback_nonce": "c09c7aa1342048fe",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-wall-quotes-brisbane-007/",
+      "anchor": "Retaining Wall Quotes Brisbane: For Scope-First Comparisons",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
